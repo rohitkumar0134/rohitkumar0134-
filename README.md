@@ -7,17 +7,16 @@
 
 - 🔭 I’m currently working on [password-manager app](https://github.com/rohitkumar0134/Notes-password-manager)
 
-- 🌱 I’m currently learning **Laravel ,Flutter ,Angular & Kotlin**
+- 🌱 I’m currently learning **Javascript,React-js,Express-js,Next-js**
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- 💬 Ask me about **Laravel,Cyber-security**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **rohit54pandit@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BSOQlY-VEtLxlP7pP7S3H1ajUIBgGaLp/view?usp=share_link](https://drive.google.com/file/d/1BSOQlY-VEtLxlP7pP7S3H1ajUIBgGaLp/view?usp=share_link)
 
-- ⚡ Fun fact **I think I'm Lazy 😪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
